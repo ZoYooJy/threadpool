@@ -1,7 +1,7 @@
 #pragma once
 
 #include <functional>
-// #include <future>
+#include <future>
 #include <mutex>
 #include <queue>
 #include <thread>
